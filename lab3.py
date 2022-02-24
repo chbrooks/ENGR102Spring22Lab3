@@ -1,5 +1,5 @@
 ## Lab 3: Word counting.
-## Due Thurs 3/2, start of class.
+## Due Thurs 3/3, start of class.
 
 ## In this lab, we'll build a tool to construct a Frequency Distribution.
 ## This is a dictionary that maps words to the number of times they occur in a file.
